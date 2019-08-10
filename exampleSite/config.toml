@@ -8,4 +8,4 @@ theme = "hugo-code-editor-theme"
 
 [params]
     author = "John Doe"
-    locale = "en-US"
+    locale = "zh-CN"
